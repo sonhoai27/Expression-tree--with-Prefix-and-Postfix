@@ -1,0 +1,5 @@
+﻿  Stack.cpp
+c:\users\sonho\documents\visual studio 2017\projects\baitap\baitap\stack.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\sonho\documents\visual studio 2017\projects\baitap\baitap\stack.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\sonho\documents\visual studio 2017\projects\baitap\baitap\stack.cpp(178): warning C4018: '<': signed/unsigned mismatch
+  BaiTap.vcxproj -> c:\Users\sonho\Documents\Visual Studio 2017\Projects\BaiTap\Debug\BaiTap.exe
